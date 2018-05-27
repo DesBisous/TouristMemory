@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/helloworld/helloworld"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+
+    "navigationBarBackgroundColor": "#409eff",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "途游记忆",
+    "navigationStyle": "default",
+    "backgroundColor": "#234567"
+  }
+}
